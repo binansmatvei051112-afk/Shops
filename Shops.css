@@ -203,7 +203,8 @@ hr {
     flex: 1;
 }
 
-.qty-btn {
+.qty-btn-plus-btn,
+.qty-btn-minus-btn {
     background: #333;
     color: rgb(255, 255, 255);
     border: none;
